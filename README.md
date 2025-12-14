@@ -1,5 +1,7 @@
 # Se2230- Project: Art Gallery System
 
+## Collaborative Project : Demir Demirdöğen, Yağmur Pazı, Batuhan Salcan, Beril Filibelioğlu
+
 ### Project Repository: https://github.com/this-Demir/ArtGallery_SwingUI
 
 > **Note:** The detailed database schema is provided below.
